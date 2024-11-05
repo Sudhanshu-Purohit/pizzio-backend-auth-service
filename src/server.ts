@@ -1,5 +1,1 @@
-const prints = () => {
-    console.log("hello");
-};
-
-prints();
+console.log("hello")
