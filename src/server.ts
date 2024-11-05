@@ -1,1 +1,5 @@
-console.log("Hello via Bun!");
+const prints = () => {
+    console.log("hello");
+};
+
+prints();
